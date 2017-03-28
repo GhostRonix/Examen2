@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490718385 source:c:\users\20135585\desktop\cc\contador de caracteres\main.cpp
+	<iostream>
+	<string.h>
+	<String>
+
